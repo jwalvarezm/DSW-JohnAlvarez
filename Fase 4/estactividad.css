@@ -1,0 +1,19 @@
+
+
+
+footer{
+    background-color: #193498;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.pie{
+    text-align: center;
+    color: white;
+   
+    
+}
+
